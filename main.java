@@ -53,7 +53,7 @@ public class hotel_management_system {
 
                 System.out.println("Total cost is: " + gold_room_total_cost);
                 System.out.print("Services available: \n");
-                System.out.print("1. Laundry one-day cost is 150\n");
+                System.out.print("1. Laundry one-day cost is 150\n"); 
                 System.out.print("Enter the number of days for laundry service: ");
                 int gold_laundry_days = scanner.nextInt();
 
